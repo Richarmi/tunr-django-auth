@@ -1,1 +1,2 @@
-# tunr-django-auth
+## Finished CRUD version of tunr app
+
